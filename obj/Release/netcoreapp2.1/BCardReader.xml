@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BCardReader</name>
+    </assembly>
+    <members>
+        <member name="M:BCardReader.Utility.ExcelCreator.Create(System.Data.DataTable,System.String)">
+            <summary>       
+            Create one Excel-XML-Document with SpreadsheetML from a DataTable
+            </summary>        
+            <param name="dataSource">Datasource which would be exported in Excel</param>
+            <param name="fileName">Name of exported file</param>
+        </member>
+    </members>
+</doc>

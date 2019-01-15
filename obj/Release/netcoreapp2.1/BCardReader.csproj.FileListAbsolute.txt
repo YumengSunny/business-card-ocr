@@ -1,0 +1,17 @@
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\bin\Release\netcoreapp2.1\BCardReader.deps.json
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\bin\Release\netcoreapp2.1\BCardReader.runtimeconfig.json
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\bin\Release\netcoreapp2.1\BCardReader.runtimeconfig.dev.json
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\bin\Release\netcoreapp2.1\BCardReader.dll
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\bin\Release\netcoreapp2.1\BCardReader.pdb
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\obj\Release\netcoreapp2.1\BCardReader.csprojAssemblyReference.cache
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\obj\Release\netcoreapp2.1\BCardReader.csproj.CoreCompileInputs.cache
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\obj\Release\netcoreapp2.1\BCardReader.RazorAssemblyInfo.cache
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\obj\Release\netcoreapp2.1\BCardReader.RazorAssemblyInfo.cs
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\obj\Release\netcoreapp2.1\BCardReader.AssemblyInfoInputs.cache
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\obj\Release\netcoreapp2.1\BCardReader.AssemblyInfo.cs
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\obj\Release\netcoreapp2.1\BCardReader.RazorTargetAssemblyInfo.cache
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\obj\Release\netcoreapp2.1\BCardReader.dll
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\obj\Release\netcoreapp2.1\BCardReader.pdb
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\bin\Release\netcoreapp2.1\BCardReader.xml
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Ujash\source\repos\BCardReader\BCardReader\obj\Release\netcoreapp2.1\BCardReader.xml
