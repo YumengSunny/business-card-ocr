@@ -20,3 +20,17 @@ Deployement Steps
 7) Follow the steps given in link to deploy the web application in azure.
 https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-dotnet
 
+8) For SQL intergration, you will have to create SQL server named 'sqlserverocr' with username 'developer1' and your password. 
+
+9) Now, please go to the server from all resources and click on 'Firewalls and virtual networks Show firewall settings'.
+
+10) Add your PC Ip address to connect to the SQL server.
+
+11) Open SQL server management studio and connect to Azure SQL server.
+
+12) Import and Export Database: Follow Step #10 in my resource group's SQL server and connect that SQL server into your SQL Server Management Studio.
+
+13) Once you connect to both new and old server, please do Import and Export of user_data database. 
+
+14) Note: You can find the connection string to connect to database from Azure portal by clicking on your Database. 
+
