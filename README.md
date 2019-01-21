@@ -11,7 +11,7 @@ Deployement Steps
  
 3) Keep json file of google vision's api to D:\home\myapp\apikeys.json and give this path in Settings >Application settings> Application settings of deployeed app.
  
-4) Make sure that python is installed with open-cv and argparse packages. Replace python's path with value of variable pythonpath in CardReaderController.cs and GoogleReaderController.cs. 
+4) Make sure that python is installed with open-cv and argparse packages. Replace python's path with value of variable pythonpath in CardReaderController.cs and GoogleReaderController.cs.  Keep imagesegmentation.py on same path. 
 
 5) Create folder D:\\home\\images\\google\\ with full permission. 
 
