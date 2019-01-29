@@ -47,7 +47,7 @@ def imagesegmentation(img, path):
     print(filename)
 
     # cv2.imshow("Image", img)
-    cv2.waitKey(0)
+    # cv2.waitKey(0)
     return filename
 
 
