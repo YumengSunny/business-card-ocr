@@ -71,7 +71,7 @@ namespace BCardReader.Controllers
           
             if (System.IO.File.Exists(s2))
             {
-                System.IO.File.Delete(s2);
+             //   System.IO.File.Delete(s2);
             }
 
             List<UserInfo> contactDetailLst = new List<UserInfo>();
