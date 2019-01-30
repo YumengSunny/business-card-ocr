@@ -3,7 +3,7 @@
 Deployement Steps
 *****************
 
-1) Go to azure account. Click on Create new resource. Select Cognitive service and complete the process by filling simple form. You will be provided key to access this service.
+1) Go to azure account. Click on Create new resource. Select Computer Vision and complete the process by filling simple form. You will be provided key to access this service.
    Copy that key and replace with value of variable subscriptionKey in CardReaderController.cs.
 
 2) Go to azzure account. Click on Create new resource. Select Text Analytics and complete the process by filling simple form. You will be provided key to access this service.
