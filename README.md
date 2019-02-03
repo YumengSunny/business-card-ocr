@@ -17,17 +17,29 @@ Important Note: You will have to set environmental path from Kudu for Python, an
 6) Keep imagesegmentation.py on same path. 
 
 7) Now follow these steps in Kudu console plateform
+
 -- Create folder D:\\home\\images\\google\\ with full permission.
+
 -- Create folder D:\\home\\images\\azure\\ with full permission.
+
 -- Keep json file of google vision's api to D:\home\myapp\apikeys.json and give this path in Settings > Application settings > Application settings of deployeed app.
+
 -- Install Opencv package with version 3.2.0.8. Note: Do not install other version.
+
 -- Install argparse package.
 
 8) SQL Installation:
+
 -- You will have to create SQL server named 'sqlserverocr' with username 'developer1' and your password.
+
 -- Now, please go to the server from all resources and click on 'Firewalls and virtual networks Show firewall settings'.
+
 -- Add your PC Ip address to connect to the SQL server.
+
 -- Follow same path in my resource group's SQL server and connect the old SQL server into your SQL Server Management Studio.
+
 -- Once you connect to both new and old server, please do Import and Export of user_data database. 
+
 -- Note: You can find the connection string to connect to database from Azure portal by clicking on your Database. 
+
 -- Use the connection string in the project.
